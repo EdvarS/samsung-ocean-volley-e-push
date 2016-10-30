@@ -28,6 +28,7 @@ public class ImageActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_image);
 
+
         memoryInfo = new ActivityManager.MemoryInfo();
 
         activityManager = (ActivityManager) getSystemService(ACTIVITY_SERVICE);

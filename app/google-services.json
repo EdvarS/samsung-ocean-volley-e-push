@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "910968799999",
+    "firebase_url": "https://globalcode-ocean.firebaseio.com",
+    "project_id": "globalcode-ocean",
+    "storage_bucket": "globalcode-ocean.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910968799999:android:92d3763b8fd43225",
+        "android_client_info": {
+          "package_name": "br.com.cucha.oceanws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910968799999-s98bjdt20tmnieo6uf2hkm1tv75f0ldf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIjWAk601vsNPKBJNfszuYgjvH6gb8Ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
